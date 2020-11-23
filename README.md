@@ -1,4 +1,8 @@
-1. cd ```video-player```
-2. npm install 
+1. npx create-react-app video-player
+
+2. cd ```video-player```
+
+3. npm install 
 (to install the following dependencies : @material-ui/core, @material-ui/icons, react-player)
-3. npm start
+
+4. npm start
